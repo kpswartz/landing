@@ -1,0 +1,54 @@
+body ,* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    background-color: black;
+    color: white; 
+}
+.navbar-brand{
+    color: white;
+}
+
+
+.logo{
+    height: 50px;
+}
+
+.carousel{
+    background-size: cover;
+    background-repeat: none;
+}
+
+.icono1 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-bottom: 10px;
+}
+
+ .card-body {
+    background-color: #328998;
+}
+
+.card-group {
+    border: 1px black;
+    margin-bottom: 50px;
+}
+
+.card-text {
+    font-weight: 400;
+    text-align: left;
+}  
+
+.card-img-top{
+    height: 173px;
+}
+
+.footer{
+    background-color: #328998;
+}
+
+
